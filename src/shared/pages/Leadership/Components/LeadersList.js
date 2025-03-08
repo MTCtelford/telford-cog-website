@@ -34,9 +34,9 @@ const LeadersList = function (props) {
       />
 
 <LeaderItem
-        image={br_linu_thomas}
+        image={Linu}
         name="Br. Linu Thomas"
-        designation="Youth Secretary"
+        designation="Admin
         decription='Son of Mr. V. Thomas and Mrs. Alice Thomas was born in Delhi, India natively from Adoor, India. Though his maternal family is from Pentecostal, he used to go to Marthoma church until the age of 30. In the year of 2016 he went to Masirah, a small island in Oman, where he learned about the truth of baptism and its importance. He is a nurse by profession. He came to the UK in March 2022 and has been a part of Mahanaim CoG, Telford since then. Within this short time itself he has proved to be well determined and passionate towards the work of God. Despite language barriers he is not afraid to proclaim Gods word.
         His wife Merlin Mathew, Jerome (son) and Serah (daughter).'
         socialMedia = {true}
